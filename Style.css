@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+* {
+
+  padding: 10px;
+
+  margin: auto;
+
+  text-align: center;
+
+  font-family: 'Patrick Hand';
+
+}
+
+body {
+
+  background-color: #FFD59B;
+
+}
+
+#nama_pemain {
+
+  margin: 0 auto 22.5px auto;
+
+  border: solid 5px #F5AD33;
+
+  border-radius: 40px 40px 15px 15px;
+
+  background-color: #FFC563;
+
+}
+
+input, #hitung {
+
+  outline: none;
+
+  border: solid 3px #FFB44B;
+
+  border-radius: 7px;
+
+  background-color: #FFDAA7;
+
+  color: #5F5F5F;
+
+  font-family: 'Patrick Hand';
+
+  font-size: 15px;
+
+  font-weight: bold;
+
+}
+
+input {
+
+  width: 75%;
+
+}
+
+#judul, #jdlCowok, #jdlCewek {
+
+  color: #E78B09;
+
+  font-family: 'Patrick Hand';
+
+}
+
+#judul {
+
+  font-size: 45px;
+
+}
+
+.tambahan, .credit {
+
+  color: #D79230;
+
+  font-style: italic;
+
+  font-size: 18px;
+
+}
+
+.credit {
+
+  color: #ED9500;
+
+  font-weight: bold;
+
+}
+
+#jdlCowok, #jdlCewek {
+
+  margin: 5px;
+
+  font-size: 25px;
+
+  font-weight: bold;
+
+}
+
+#hitung {
+
+  border: solid 3px #E98F10;
+
+  background-color: #FFB349;
+
+  color: #4D4D4D;
+
+  font-size: 20px;
+
+}
+
+#hasil {
+
+  width: 50%;
+
+  padding: 20px;
+
+  text-align: center;
+
+  border: solid 5px #FFB64E;
+
+  border-radius: 10px 10px 30px 30px;
+
+  background-color: #FFDBA9;
+
+  color: #5F5F5F;
+
+  font-size: 25px;
+
+  font-weight: bold;
+
+}
